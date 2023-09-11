@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<p>xin chào các bạn</p>
 </body>
 </html>
